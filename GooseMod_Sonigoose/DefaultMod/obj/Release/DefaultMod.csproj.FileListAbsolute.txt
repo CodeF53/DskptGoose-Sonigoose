@@ -1,0 +1,2 @@
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Sonigoose\GooseMod_Sonigoose\DefaultMod\obj\Release\Sonicgoose.Properties.Resources.resources
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Sonigoose\GooseMod_Sonigoose\DefaultMod\obj\Release\DefaultMod.csproj.GenerateResource.cache
